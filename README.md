@@ -1,5 +1,23 @@
+
 <h1>Solar system</h1>
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Illustrations](#illustrations)
+
+## General info
 Solar system simulation for Computer Graphics classes. 
+
+## Technologies
+* C++ version
+* OpenGL
+* GLFW
+* STB
+* Glad
+* GLM
+
+## Illustrations
 
 ![Przechwytywanie](https://github.com/bindasp/OpenGL-Solar-System/assets/116794638/931edf80-fe83-4abb-b461-2041d5923743)
 
